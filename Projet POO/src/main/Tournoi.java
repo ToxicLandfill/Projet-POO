@@ -6,4 +6,8 @@ public class Tournoi {
 		
 	}
 	
+	public void fonctionTest() {
+		
+	}
+	
 }
