@@ -1,9 +1,14 @@
 package main;
 
-public class Championnat {
+public class Championnat extends Tournoi {
 
+	//private
+	
 	public Championnat() {
-		// TODO Auto-generated constructor stub
+		super();
 	}
+	
+	
+	
 
 }

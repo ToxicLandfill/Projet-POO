@@ -1,6 +1,6 @@
 package main;
 
-public class Tournoi {
+abstract public class Tournoi {
 	
 	private int idTournoi;
 	private String dateDebut;

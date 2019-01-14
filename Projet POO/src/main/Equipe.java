@@ -7,7 +7,6 @@ public class Equipe {
 	private int nbPoints;
 	private int classement;
 	
-	
 	public Equipe() {
 		
 	}
